@@ -1,0 +1,36 @@
+# Data
+Data/
+*.csv
+*.npy
+
+# Logs
+Logs/
+*.log
+
+# Results & Reports (Generated output)
+Results/
+Report/
+*.png
+*.jpg
+*.jpeg
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
